@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrTerreII
 - 👀 I’m interested in learn new lenguages and keep learning
-- 🌱 I’m currently learning Java, HTML5, CSS, XML and DTD
+- 🌱 I’m currently learning Java, HTML5, CSS, XML, JSON, JavaScript, LUA, Python
 - 💞️ I’m looking to collaborate on nothing rn, just learning
 
 <!---
