@@ -1,4 +1,4 @@
-Hi, my name is Ricardo, also known as Terrell, and im developer and enthusiast of programming.<br>
+Hi, my name is Ricardo, also known as Terrell, and im a developer and enthusiast of programming.<br>
 <table>
 <tr>
   <th>💻Java ☕ developer, also program in LUA <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="15px"/> mid - advanced knowledge in Javascript <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png" width="15px"/>, and basic - mid React 17 and 18 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="15px"/></th>
