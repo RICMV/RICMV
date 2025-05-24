@@ -1,7 +1,7 @@
 
 # Hello there, Ricardo's here 🐦‍🔥
 
-<img src="https://i.imgur.com/5erS6kt.png" width="200" height="100">
+<img src="https://i.imgur.com/5erS6kt.png" width="500" height="500">
 Hi, my name is Ricardo, pleasure to meet you.
 
 
