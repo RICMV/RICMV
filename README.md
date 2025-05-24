@@ -47,7 +47,7 @@ I call myself Fullstack, motivated by the proficiency in multiple technology sta
 
 💬 Ask me about my hobbies, studies, technologies, projects...
 
-📫 I will let all my social medias
+📫 Social Medias at the end
 
 ⚡️ Im not used to use the public repositories, all I do is in private ones
 
