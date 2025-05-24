@@ -1,17 +1,60 @@
-<label>
-  <h2>Hi, my name is Ricardo, developer. Pleasure to meet you</h2><br><br>
-  <table>
-  <tr>
-    <th>💻: Already worked with: LUA <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="15px"/>, Javascript <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_js_icon_130458.png" width="15px"/>, Java <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="15px">, Spring Boot <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="15px">, Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="15px">, C++ <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="15px">, Shell <img src="https://banner2.cleanpng.com/20180501/ltw/kisspng-shell-script-linux-bash-unix-shell-5ae8dbf7334a86.9624936015252101032101.jpg" width="15px"></th>
-  </tr>
-  <tr>
-    <th>🧠: Just working in my free time in my own personal projects. Maybe one day could eat from them, or at least help to pay the rents</th>
-  </tr>
-  </table>
-</label>
+
+# Hello there, Ricardo's here 🐦‍🔥
+
+[![Imgur.com](https://i.imgur.com/5erS6kt.png)](https://imgur.com)
+Hi, my name is Ricardo, pleasure to meet you.
 
 
-<!---
-MrTerreII/MrTerreII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I call myself Fullstack, motivated by the proficiency in multiple technology stacks. But im still learning and have a lot to learn.
+
+
+## 🛠 Skills
+### Front
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### Back
+![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white
+)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Mobile Development
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=Jetpack%20Compose&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Game development
+![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on one of my first applications for Android, based in Jetpack Compose.
+
+🧠 I'm currently learning Unreal Engine 5 with C++
+
+👯‍♀️ I'm looking to collaborate on Game development
+
+💬 Ask me about my hobbies, studies, technologies, projects...
+
+📫 I will let all my social medias
+
+⚡️ Im not used to use the public repositories, all I do is in private ones
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RICMV&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio_(WIP)-000?style=for-the-badge&logo=ko-fi&logoColor=red)](https://www.ricmv.dev/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricmva)
+
